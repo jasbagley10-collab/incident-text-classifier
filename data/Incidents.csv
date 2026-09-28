@@ -1,0 +1,41 @@
+text,label
+"The aircraft lost GPS position during the mission.",navigation
+"GPS signal became unreliable while flying.",navigation
+"The drone deviated from the planned route.",navigation
+"The operator noticed the aircraft drifting from its waypoint.",navigation
+"Navigation accuracy dropped during the flight.",navigation
+"The aircraft failed to hold its assigned position.",navigation
+"The flight controller reported a positioning error.",navigation
+"The drone could not maintain its programmed route.",navigation
+"Waypoint navigation stopped responding.",navigation
+"The aircraft began flying away from the planned flight path.",navigation
+"A motor stopped spinning during the mission.",mechanical
+"The propeller was damaged after landing.",mechanical
+"The aircraft experienced a motor failure.",mechanical
+"A battery connection became loose during flight.",mechanical
+"The landing gear broke during recovery.",mechanical
+"The drone began vibrating heavily during flight.",mechanical
+"A cracked propeller was discovered during inspection.",mechanical
+"The aircraft lost power after a motor overheated.",mechanical
+"The battery voltage dropped unexpectedly.",mechanical
+"A mechanical inspection found damage to the arm.",mechanical
+"Strong winds developed during the flight.",weather
+"Heavy rain forced the operator to terminate the mission.",weather
+"Visibility decreased because of fog.",weather
+"Wind gusts exceeded the planned operating limits.",weather
+"Low temperatures affected the flight conditions.",weather
+"A storm approached the operating area.",weather
+"High winds made the aircraft difficult to control.",weather
+"Rain began falling during the mission.",weather
+"Cloud cover reduced visibility in the area.",weather
+"Weather conditions became unsafe for continued flight.",weather
+"The operator forgot to complete the preflight checklist.",human_factors
+"The wrong flight plan was loaded before takeoff.",human_factors
+"The pilot failed to monitor the battery level.",human_factors
+"The operator misunderstood the mission instructions.",human_factors
+"The aircraft was launched without completing the required inspection.",human_factors
+"The pilot entered the wrong waypoint coordinates.",human_factors
+"The operator continued the mission despite a warning.",human_factors
+"The crew did not communicate the flight restriction.",human_factors
+"The operator selected the wrong operating mode.",human_factors
+"The pilot failed to follow the established procedure.",human_factors
